@@ -1,2 +1,1 @@
-# C++ Codes
-This is a repository of c++ codes 
+This is a repository of C++ codes.
