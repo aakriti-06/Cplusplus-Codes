@@ -1,2 +1,2 @@
-# C plus plus 
-This is a repository where i will try to display the codes of C++ language 
+# C++ Codes
+This is a repository of c++ codes 
